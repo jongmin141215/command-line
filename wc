@@ -1,0 +1,4 @@
+wc prints the number of lines/words/characters in a file.
+
+e.g.) wc file1
+The command line above prints the number of lines/words/characters in file1.
