@@ -1,0 +1,4 @@
+grep finds lines with a keyword in a file
+
+e.g.) grep hi index.html
+The command line above prints lines including 'hi' in index.html.
